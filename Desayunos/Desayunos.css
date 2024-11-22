@@ -1,0 +1,31 @@
+* {
+    font-weight: bold;
+    color: white;
+}
+
+
+
+header {
+    background-color: rgb(50, 50, 50); 
+    text-align: center;
+    color: white;
+    font-size: 10vw;
+    padding-top: 20px; /* Ajusta según sea necesario */
+    margin-right: -10px;
+    margin-left: -10px;
+    
+}
+header img {
+    width: 100%;
+    background-color: rgba(50, 50, 50); 
+    margin-bottom: -30px;
+
+  }
+
+
+body {
+
+    background-color: rgb(20, 20, 20); 
+}
+
+
