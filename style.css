@@ -38,10 +38,13 @@ button {
     z-index: 4;
 }
 img {
-  width: 100%;
-  background-color: rgba(50, 50, 50); 
-  border-top-right-radius: 2vw;
-  border-top-left-radius: 2vw;
+    width: 100%;
+    height: auto;
+    background-color: rgba(50, 50, 50); 
+    border-top-right-radius: 2vw;
+    border-top-left-radius: 2vw;
+    object-fit: cover;
+    height: 30vw;
 }
 
 button div{
